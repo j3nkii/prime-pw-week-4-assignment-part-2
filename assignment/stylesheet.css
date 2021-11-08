@@ -1,0 +1,26 @@
+header {
+    color: yellow;
+    background-color: hotpink;
+    margin-top: 50px;
+}
+
+body {
+    background-color: yellowgreen;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.info {
+    color:violet;
+    background-color: rgb(95, 37, 170);
+    padding: 50px;
+
+}
+
+h3{
+    background-color: hotpink;
+    color: green;
+    padding: 25px;
+    margin-bottom: 50px;
+}
